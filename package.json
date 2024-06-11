@@ -1,0 +1,17 @@
+{
+  "name": "gurka",
+  "version": "1.0.0",
+  "description": "gurka_bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dop",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "node-schedule": "^2.1.1"
+  }
+}
