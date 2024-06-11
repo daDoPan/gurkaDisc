@@ -53,7 +53,7 @@ async function getWillysGurka() {
 
     browser.close();
 
-      newPrices.push(newWillyPrice  + ' \n ++')
+      newPrices.push(newWillyPrice  + ' %s ++')
 
 
 }
@@ -76,7 +76,7 @@ async function getCoopGurka() {
   
     browser.close();
 
-    newPrices.push( 'Coop Gurka: ' + priceCoop + ' kr'  + ' \n ++')
+    newPrices.push( 'Coop Gurka: ' + priceCoop + ' kr'  + ' %s ++')
 
 }
 
@@ -97,7 +97,7 @@ async function getIcaGurka() {
   
     browser.close();
 
-    newPrices.push( 'Ica Maxi Gurka: ' + priceIca  + ' \n ++')
+    newPrices.push( 'Ica Maxi Gurka: ' + priceIca  + ' %s ++')
 
 }
 
@@ -118,7 +118,7 @@ async function getHemopgurka() {
   
     browser.close();
 
-    newPrices.push( "Hemköp Gurka: " + pricehomekop + ' kr' + ' \n ')
+    newPrices.push( "Hemköp Gurka: " + pricehomekop + ' kr' + ' %s ')
 
 }
 
