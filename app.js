@@ -204,7 +204,7 @@ let m = prices.replace(/\[/g,"").replace(/\]/g,"")
 
 console.log(m)
 
-/*
+
 
 
 client.on("ready", (x)=>{
@@ -241,7 +241,7 @@ client.on('messageCreate', async (message) => {
 
 client.login(process.env.BOT_PASS)
 
-*/
+
 ///////////////////////////////////////////
 
 
