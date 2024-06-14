@@ -1,1 +1,1 @@
-"Willys Gurka: 19,90 kr %s Coop Gurka: 17,95 kr %s Ica Maxi Gurka: 17,95 kr %s Hemköp Gurka: 16,95 %s "
+"Willys Gurka: 16,90 kr %s Coop Gurka: 14,95 kr %s Ica Maxi Gurka: 17,95 kr %s Hemköp Gurka: 15,95 kr %s "

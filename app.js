@@ -149,7 +149,7 @@ async function scrapePuppet(){
 async function ScraperMain() {
 
 
-    schedule.scheduleJob('0 9 * * *', ()=>{
+    schedule.scheduleJob('0 17 * * *', ()=>{
 
         
         scrapePuppet()
@@ -159,7 +159,10 @@ async function ScraperMain() {
     })
 
 }
+/*
+"Willys Gurka: 19,90 kr %s Coop Gurka: 17,95 kr %s Ica Maxi Gurka: 17,95 kr %s Hemköp Gurka: 16,95 %s
 
+*/
 ///////////////////////////////////
 
 
