@@ -149,7 +149,7 @@ async function scrapePuppet(){
 async function ScraperMain() {
 
 
-    schedule.scheduleJob('0 17 * * *', ()=>{
+    schedule.scheduleJob('0 5 * * *', ()=>{
 
         
         scrapePuppet()
