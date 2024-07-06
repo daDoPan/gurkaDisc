@@ -1,1 +1,1 @@
-I did it for the memes
+dumb app
